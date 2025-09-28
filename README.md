@@ -2,7 +2,7 @@
 
 ### Welcome to my profile
 
-My name is Dimas, an Infra/SRE for AI/ML from Indonesia <img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/fd74450d-8f26-4287-a933-b7a13c7a62bf" /> Currently, I am experienced with programming language such as `Python` and `Go`. 
+My name is Dimas <img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/fd74450d-8f26-4287-a933-b7a13c7a62bf" />, an Ops/SRE for AI/ML stack. Currently, I am experienced with programming language such as `Python` and `Go`. 
 
 ####  My tech stack:
 
